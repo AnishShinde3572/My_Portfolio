@@ -533,7 +533,11 @@ Home Section Started here
 }
 
 
-
+.mail-anchor
+{
+  text-decoration: none;
+  color: currentColor;
+}
 
 
 
